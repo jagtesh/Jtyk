@@ -1,0 +1,12 @@
+Jtyk (Jay-tyke) - JSON, the YAML killer.
+
+Jtyk is a simple library that propogates the use of JSON where you'd otherwise use YAML or XML, primarily for writing config files.
+
+Pros:
+- JSON is widely used
+- Officially supported in some languages (PHP)
+- Most web developers are familiar with it already
+- Provides a simple concise way to write config files in web projects
+
+Cons:
+- People from a non-web development background may not be familiar to it (which still makes it an equally capable contendor as YAML or XML)

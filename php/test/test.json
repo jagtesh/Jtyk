@@ -1,0 +1,4 @@
+{
+  "joker": "plays poker",
+  "list": [1,2,{"joker": "poker", "sub-list": [4,5,6]}]
+}
